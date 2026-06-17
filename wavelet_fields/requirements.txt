@@ -8,7 +8,7 @@ async-timeout @ file:///home/conda/feedstock_root/build_artifacts/async-timeout_
 attrs @ file:///home/conda/feedstock_root/build_artifacts/attrs_1683424013410/work
 backcall==0.2.0
 beautifulsoup4==4.12.2
-bleach==6.0.0
+bleach==6.4.0
 blessings==1.7
 blinker @ file:///home/conda/feedstock_root/build_artifacts/blinker_1681349778161/work
 brotlipy @ file:///home/conda/feedstock_root/build_artifacts/brotlipy_1666764652625/work
@@ -167,7 +167,7 @@ requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1684774241
 requests-oauthlib @ file:///home/conda/feedstock_root/build_artifacts/requests-oauthlib_1643557462909/work
 rsa @ file:///home/conda/feedstock_root/build_artifacts/rsa_1658328885051/work
 scikit-image==0.19.3
-scikit-learn==1.2.2
+scikit-learn==1.9.0
 scikit-video==1.1.11
 scipy==1.10.1
 seaborn==0.12.2
@@ -188,9 +188,9 @@ threadpoolctl==3.1.0
 tifffile==2023.4.12
 tinycss2==1.2.1
 tomli==2.0.1
-torch==1.8.0
+torch==2.12.0
 torchvision==0.8.2
-tornado==6.3.2
+tornado==6.5.7
 tqdm @ file:///croot/tqdm_1679561862951/work
 traitlets==5.9.0
 trimesh==3.22.1
