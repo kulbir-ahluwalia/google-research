@@ -25,7 +25,7 @@ future==0.18.2
 gast==0.4.0
 gin-config==0.5.0
 gitdb==4.0.9
-GitPython==3.1.27
+GitPython==3.1.58
 google-auth==2.6.6
 google-auth-oauthlib==0.4.6
 google-pasta==0.2.0
@@ -40,7 +40,7 @@ ipdb==0.13.9
 ipython==7.33.0
 jedi==0.18.1
 jmp==0.0.2
-keras==2.6.0
+keras==3.15.0
 Keras-Preprocessing==1.1.2
 kiwisolver==1.4.2
 Markdown==3.3.7
@@ -63,7 +63,7 @@ prompt-toolkit==3.0.29
 protobuf==3.20.1
 psutil==5.9.0
 ptyprocess==0.7.0
-pyasn1==0.4.8
+pyasn1==0.6.4
 pyasn1-modules==0.2.8
 pygame==2.1.2
 pyglet==1.4.11
