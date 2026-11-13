@@ -177,7 +177,7 @@ simple-3dviz==0.7.0
 six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
 smmap==5.0.0
 sorcery==0.2.2
-soupsieve==2.4.1
+soupsieve==4.0
 stack-data==0.6.2
 sympy==1.12
 tenacity==8.2.2
@@ -188,7 +188,7 @@ threadpoolctl==3.1.0
 tifffile==2023.4.12
 tinycss2==1.2.1
 tomli==2.0.1
-torch==1.8.0
+torch==2.13.0
 torchvision==0.8.2
 tornado==6.6
 tqdm @ file:///croot/tqdm_1679561862951/work
