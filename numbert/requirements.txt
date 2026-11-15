@@ -10,13 +10,13 @@ gast==0.4.0
 google-auth==1.35.0
 google-auth-oauthlib==0.4.5
 google-pasta==0.2.0
-grpcio==1.53.2
+grpcio==1.85.1
 h5py==3.1.0
 idna==3.2
 keras==3.15.0
 Keras-Preprocessing==1.1.2
 Markdown==3.3.4
-numpy==1.22.0
+numpy==2.5.4
 oauthlib==4.0.1
 opt-einsum==3.3.0
 protobuf==3.17.3

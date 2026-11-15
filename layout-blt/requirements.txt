@@ -21,7 +21,7 @@ google-auth==1.35.0
 google-auth-oauthlib==0.4.6
 google-pasta==0.2.0
 googleapis-common-protos==1.53.0
-grpcio==1.53.2
+grpcio==1.85.1
 h5py==3.1.0
 idna==3.2
 importlib-metadata==4.8.1
@@ -35,7 +35,7 @@ Markdown==3.3.4
 matplotlib==3.4.3
 ml-collections==0.1.0
 msgpack==1.2.3
-numpy==1.22.0
+numpy==2.5.4
 oauthlib==4.0.1
 opt-einsum==3.3.0
 optax==0.0.9
