@@ -17,7 +17,7 @@ gast==0.4.0
 google-auth==2.15.0
 google-auth-oauthlib==0.4.6
 google-pasta==0.2.0
-grpcio==1.51.1
+grpcio==1.53.2
 h5py==3.7.0
 huggingface-hub==0.11.1
 idna==3.4
@@ -29,14 +29,14 @@ Markdown==3.4.1
 MarkupSafe==2.1.1
 multidict==6.0.3
 multiprocess==0.70.14
-numpy==1.24.0
-oauthlib==4.0.0
+numpy==2.5.4
+oauthlib==4.0.1
 opt-einsum==3.3.0
 packaging==22.0
 pandas==1.5.2
 protobuf==3.19.6
 pyarrow==10.0.1
-pyasn1==0.6.4
+pyasn1==0.6.5
 pyasn1-modules==0.2.8
 python-dateutil==2.8.2
 pytz==2022.7
@@ -57,7 +57,7 @@ tensorflow-macos==2.11.0
 termcolor==2.1.1
 threadpoolctl==3.1.0
 tokenizers==0.13.2
-tqdm==4.64.1
+tqdm==4.66.3
 transformers==4.25.1
 typing_extensions==4.4.0
 urllib3==2.8.0
@@ -65,4 +65,4 @@ Werkzeug==2.2.2
 wrapt==1.14.1
 xxhash==3.1.0
 yarl==1.8.2
-zipp==3.11.0
+zipp==3.19.1

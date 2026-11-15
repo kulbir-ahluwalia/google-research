@@ -42,7 +42,7 @@ flax==0.7.4
 fonttools==4.46.0
 fqdn==1.5.1
 fsspec==2023.12.1
-future==0.18.3
+future==1.0.0
 gast==0.4.0
 gin-config==0.5.0
 google-auth==2.25.1
@@ -51,14 +51,14 @@ google-pasta==0.2.0
 googleapis-common-protos==1.62.0
 graph-compression-google-research==0.0.4
 graphviz==0.20.1
-grpcio==1.60.0
+grpcio==1.85.1
 h5py==3.10.0
 huggingface-hub==0.19.4
 idna==3.6
 immutabledict==4.0.0
 importlib-resources==6.1.1
 ipykernel==6.27.1
-ipython==8.18.1
+ipython==9.18.1
 ipywidgets==8.1.1
 isoduration==20.11.0
 jax==0.4.10
@@ -114,8 +114,8 @@ nest-asyncio==1.5.8
 nltk==3.10.4
 notebook==7.0.6
 notebook_shim==0.2.3
-numpy==1.26.2
-oauthlib==4.0.0
+numpy==2.5.4
+oauthlib==4.0.1
 opt-einsum==3.3.0
 optax==0.1.7
 optax-shampoo==0.0.6
@@ -138,7 +138,7 @@ protobuf==3.19.6
 psutil==5.9.6
 ptyprocess==0.7.0
 pure-eval==0.2.2
-pyasn1==0.6.4
+pyasn1==0.6.5
 pyasn1-modules==0.3.0
 pycparser==2.21
 pyglove==0.4.3
@@ -197,7 +197,7 @@ toml==0.10.2
 tomli==2.0.1
 toolz==0.12.0
 tornado==6.6
-tqdm==4.66.1
+tqdm==4.66.3
 traitlets==5.14.0
 transformers==4.35.2
 typeguard==2.13.3
@@ -214,4 +214,4 @@ websocket-client==1.7.0
 Werkzeug==3.0.1
 widgetsnbextension==4.0.9
 wrapt==1.14.1
-zipp==3.17.0
+zipp==3.19.1
